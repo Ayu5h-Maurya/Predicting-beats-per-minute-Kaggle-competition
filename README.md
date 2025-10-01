@@ -69,7 +69,7 @@ Our best configuration achieves:
 
 ## 🎯 Final Competition Results
 
-**Final Ranking**: #364 out of 1,000+ participants
+**Final Ranking**: #364 out of 2,500+ participants
 - **Public Score**: 26.40553
 - **Improvement**: +212 positions from initial submission
 - **Final Submission**: 5 days before deadline
