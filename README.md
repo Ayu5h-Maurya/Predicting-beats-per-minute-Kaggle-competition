@@ -67,6 +67,16 @@ Our best configuration achieves:
 - **CV**: 10-fold stratified with 20 bins
 - **Ensemble**: 3-seed averaging
 
+## 🎯 Final Competition Results
+
+**Final Ranking**: #364 out of 1,000+ participants
+- **Public Score**: 26.40553
+- **Improvement**: +212 positions from initial submission
+- **Final Submission**: 5 days before deadline
+- **Team**: ayu5h_maury@
+
+This represents a significant improvement over our baseline, achieving a competitive position in the top 40% of all participants.
+
 ## ðŸ“ˆ Model Performance
 
 | Model | OOF RMSE | Training Time | Notes |
